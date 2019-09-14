@@ -2,10 +2,10 @@
 Grouping numbers into a range when they are sequential.
 
 # Compiling the code NumberRangeSummarizer.java       
-1.javac NumberRangeSummarizer.java 
+javac NumberRangeSummarizer.java 
 
 # Compiling the code Runner.java  
-2.javac Runner.java 
+javac Runner.java 
 
 # Running the code
 java Runner
